@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--START_SECTION:top_repos-->
-<!--END_SECTION:top_repos-->
 
 <!--
 **patkoen/patkoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
