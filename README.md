@@ -1,6 +1,5 @@
-### Hello 👋
+Hello and have a wonderful day on Patrick Königstorfer's GitHub profile.
 
-Link:
 
 <!--
 **patkoen/patkoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
